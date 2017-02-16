@@ -134,7 +134,7 @@ apt-get -y install git
 echo "#####################################"
 echo "##### CLONING MAGENTO2 FROM GIT #####"
 echo "#####################################"
-git clone https://github.com/magento/magento2.git /var/www/html/magento2/
+git clone https://github.com/timramseyjr/magento2.git /var/www/html/magento2/
 
 # Composer Installation
 echo "###############################"
